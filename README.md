@@ -78,7 +78,7 @@ The raw data is not included in this repository. Download it from Kaggle and pla
 olist-marketing-funnel-analysis/
 ├── data/raw/                              # the two CSVs (download from Kaggle)
 ├── figures/                               # charts used in this README
-├── Olist_merchants_to_pay_sellers.ipynb   # full cleaning and analysis
+├── olist_funnel_analysis.ipynb   # full cleaning and analysis
 └── README.md
 ```
 
