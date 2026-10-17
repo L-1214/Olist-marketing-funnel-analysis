@@ -89,7 +89,7 @@ olist-funnel/
 
 1. Create an environment and install the requirements: `pip install -r requirements.txt` (pandas, matplotlib, statsmodels, jupyter).
 2. Place the two raw CSVs in `data/raw/`.
-3. Run `01_cleaning.ipynb`, then `02_analysis.ipynb`.
+3. Run `Olist_merchants_to_pay_sellers.ipynb`
 
 ## Next steps
 
