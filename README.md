@@ -98,4 +98,4 @@ olist-funnel/
 
 ## Author
 
-[Your name] · [LinkedIn link] · [Article link]
+TH
