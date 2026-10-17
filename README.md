@@ -93,4 +93,4 @@ olist-marketing-funnel-analysis/
 
 ## Author
 
-TH
+TH linkedin.com/in/tien-huang-5547ab1b7
