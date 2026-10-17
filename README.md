@@ -76,13 +76,10 @@ The raw data is not included in this repository. Download it from Kaggle and pla
 
 ```
 olist-funnel/
-├── data/
-│   ├── raw/        # the two original CSVs (download from Kaggle)
-│   └── clean/      # created by 01_cleaning.ipynb
+├── data/raw/        # the two original CSVs (download from Kaggle)
 ├── notebooks/
-│   ├── 01_cleaning.ipynb
-│   └── 02_analysis.ipynb
-├── figures/        # charts created by 02_analysis.ipynb
+│   └── olist_funnel_analysis.ipynb
+├── figures/
 ├── README.md
 └── requirements.txt
 ```
