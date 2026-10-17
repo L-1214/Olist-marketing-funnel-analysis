@@ -75,13 +75,11 @@ The raw data is not included in this repository. Download it from Kaggle and pla
 ## How to reproduce
 
 ```
-olist-funnel/
-├── data/raw/        # the two original CSVs (download from Kaggle)
-├── notebooks/
-│   └── olist_funnel_analysis.ipynb
-├── figures/
-├── README.md
-└── requirements.txt
+olist-marketing-funnel-analysis/
+├── data/raw/                              # the two CSVs (download from Kaggle)
+├── figures/                               # charts used in this README
+├── Olist_merchants_to_pay_sellers.ipynb   # full cleaning and analysis
+└── README.md
 ```
 
 1. Create an environment and install the requirements: `pip install -r requirements.txt` (pandas, matplotlib, statsmodels, jupyter).
