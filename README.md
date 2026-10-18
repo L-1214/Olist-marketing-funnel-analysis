@@ -27,7 +27,7 @@ Cohort: **5,998 leads** first contacted between January and May 2018. **781 (13.
 
    ![Sales cycle by origin](figures/3_sales_cycle_by_origin.png)
 
-4. **Social's weakness is the channel, not the landing page.** Social leads convert at about 6% on every landing page, including pages where search traffic does well.
+4. **Social's weakness is the channel, not the landing page.** Social leads convert at about 6% on both the two main social landing pages and on all other pages, well below search.
 
    ![Social by landing page](figures/4_social_by_page.png)
 
@@ -76,15 +76,16 @@ The raw data is not included in this repository. Download it from Kaggle and pla
 
 ```
 olist-marketing-funnel-analysis/
-├── data/raw/                              # the two CSVs (download from Kaggle)
-├── figures/                               # charts used in this README
-├── olist_funnel_analysis.ipynb   # full cleaning and analysis
+├── data/raw/                     # the two CSVs (download from Kaggle)
+├── figures/                      # charts used in this README
+├── Olist_funnel_analysis.ipynb   # full cleaning and analysis
+├── requirements.txt
 └── README.md
 ```
 
 1. Create an environment and install the requirements: `pip install -r requirements.txt` (pandas, matplotlib, statsmodels, jupyter).
 2. Place the two raw CSVs in `data/raw/`.
-3. Run `olist_funnel_analysis.ipynb` from top to bottom
+3. Run `Olist_funnel_analysis.ipynb` from top to bottom
 
 ## Next steps
 
@@ -93,4 +94,4 @@ olist-marketing-funnel-analysis/
 
 ## Author
 
-TH - [LinkedIn](linkedin.com/in/tien-huang-5547ab1b7)
+TH - [LinkedIn](https://www.linkedin.com/in/tien-huang-5547ab1b7)
